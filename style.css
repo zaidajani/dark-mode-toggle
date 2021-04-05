@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.toggle {
+  margin-top: 15%;
+  background-color: #585858; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.toggle:hover {
+  background-color: #414141; 
+}
+
+.toggle.dark {
+  background-color: #ffffff; 
+  color: black;
+}
