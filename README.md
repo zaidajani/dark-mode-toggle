@@ -1,6 +1,6 @@
 # dark-mode-toggle
 
-Dark mode toggle made in javascript using local storage.
+Dark mode `toggle made in javascript` using local storage.
 
 ## Preview
 
